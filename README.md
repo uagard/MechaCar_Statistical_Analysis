@@ -48,6 +48,7 @@ The distribution of the suspension coil dataset was visualized with a density pl
 For all t-tests conducted, the significance level was 0.05 percent. The t-test compared the means of the Suspension Coil dataset, which was 1498.78, against a mean of 1500. All t-tests conducted resulted in the means being statistically similar.
 
 A t-test across all suspension coil manufacturing lots gave a p-value of 0.06 Since this is above the significance level, the two means are statistically similar.
+
 ![image](https://user-images.githubusercontent.com/102105537/177052381-7a3cb639-de37-4aef-99ee-855ca02332d3.png)
 
 
