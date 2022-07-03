@@ -10,15 +10,6 @@ Summary statistics on pounds per square inch (PSI) of the suspension coils from 
 T-test on the mean population in order to determin which manufacturing lots are statistically different
 Designed a statistical study to compare vehicle performance of MechaCar vehicles against vehicles from other manufacturers
 
-# Resources
-R
-Dependency
-dplyr
-RStudio
-Datasets
-MechaCar_mpg.csv
-Suspension_Coil.csv
-
 # Linear Regression to Predict MPG
 The following variables provided a non-random amount of variance to the MPG values in the MechaCar_mpg dataset:
 
@@ -29,11 +20,6 @@ These variables will always have a given value that does not change.
 
 The p-value of this multiple linear regression analysis is 5.35 x 10(-11), which is much smaller than the assumed significance level of 0.05%; therefore, there is sufficient evidence to reject the null hypothesis since the slope of the linear model is not zero.
 
-Residual standard error: 	8.774 on 44 degrees of freedom		
-Multiple R-squared:  	0.7149		
-F-statistic:   	22.07 on 5 and 44 DF		
-Adjusted R-squared:  	0.6825		
-p-value: 	5.35E-11		
 ![image](https://user-images.githubusercontent.com/102105537/177051964-6bf3f7e4-c813-4204-ba2a-dc21f2708f2b.png)
 
 
