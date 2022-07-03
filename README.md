@@ -69,15 +69,15 @@ The calculated p-value from the Lot 3 t-test was 0.4168. This is above the 0.05 
 
 # Study Design: MechaCar vs. Competition
 # Description of Statistical Study
-The cost of owning and maintaining a vehicle can be expensive, so AutosRUs wants to make sure their customers are getting the best value over their competitors and would like to measure the rate of depreciation for MechaCars against other manufacturers.
+It has always been known that the cost of maintaining a vehicle can be quite expensive over time. AutosRUs wants to look into making sure their customers are getting the best value. They want the make sur ethe value given to their customer's is greater than their competitors. They would like to also try to measure the rate of depreciation for MechaCars against their competition.
 
 # Metric
 Rate of depreciation (value of vehicle over time)
-Hypothesis
+# Hypothesis
 Null hypothesis: Rate of depreciation for MechaCars is equal to their competitors
 Alternative hypothesis: Rate of depreciation for MechaCars is not equal to their competitors
-Statistical test
+# Statistical test
 Data analysts will use multiple linear regression to predict MechaCar's rate of depreciation
 
-Data needed
+# Data needed
 In order to perform multiple linear regression to predict rate of depreciation, analysts will need vehicle values, age, and mileage.
