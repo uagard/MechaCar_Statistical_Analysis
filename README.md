@@ -56,8 +56,6 @@ A t-test for Lot 1 gave a p-value of 1, which is above the significance level. T
 ![image](https://user-images.githubusercontent.com/102105537/177052564-7a8483d3-8c63-4430-be1e-1fbc377d020e.png)
 
 
-![image](https://user-images.githubusercontent.com/102105537/177052449-99e7113d-c7b1-499b-a69f-1033baaadc6d.png)
-
 The p-value for the Lot 2 t-test was 0.6072. This is above the significance level of 0.05 results in the two means being statistically similar.
 
 ![image](https://user-images.githubusercontent.com/102105537/177052470-919f0b7c-5cbf-439a-94a8-6dd331b70708.png)
