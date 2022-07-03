@@ -67,7 +67,7 @@ The calculated p-value from the Lot 3 t-test was 0.4168. This is above the 0.05 
 ![image](https://user-images.githubusercontent.com/102105537/177052493-f28fbc5d-4760-4059-97f4-a1ad98ed65f1.png)
 
 
-Study Design: MechaCar vs. Competition
+# Study Design: MechaCar vs. Competition
 Description of Statistical Study
 The cost of owning and maintaining a vehicle can be expensive, so AutosRUs wants to make sure their customers are getting the best value over their competitors and would like to measure the rate of depreciation for MechaCars against other manufacturers.
 
